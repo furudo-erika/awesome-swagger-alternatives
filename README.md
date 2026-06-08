@@ -6,6 +6,18 @@ Swagger (now often referred to by its specification name, OpenAPI Specification 
 
 This list aims to gather high-quality alternatives that offer different approaches, workflows, feature sets, or user experiences for the various stages of the API lifecycle. Whether you're looking for a more integrated platform, a simpler design tool, better collaboration features, enhanced testing capabilities, or support for different API paradigms (like GraphQL, gRPC, AsyncAPI), you might find a suitable alternative here.
 
+> Building AI apps with Claude Code, Codex, or your favorite API client?
+>
+> Try **[Blackmagic AI](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-text)**, an OpenAI-compatible gateway and cheaper OpenRouter alternative. Use one API key, prepaid credits, and top models while cutting AI model costs by up to 50%.
+
+</br>
+
+[<img width="1490" height="915" alt="Blackmagic AI OpenAI-compatible gateway dashboard" src="https://github.com/user-attachments/assets/af41beba-3fe0-4409-bfd6-03c6617a6ab1" />](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-image)
+
+</br>
+
+> **[Compare model pricing](https://blackmagic.engineering/models?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-pricing)**
+
 **Why Look for Alternatives to Swagger/OpenAPI Tooling?**
 
 While the OpenAPI Specification itself is a powerful standard for describing REST APIs, the tooling built around it (like the classic Swagger UI/Editor) might not be the perfect fit for every team or project. Common reasons developers seek alternatives include:
